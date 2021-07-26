@@ -7,4 +7,10 @@ export const IntroContainer = styled(Container)`
   justify-content: center;
   text-align: center;
   ${Container}; //To get the other values of Container
+
+  margin-top: 48px;
+
+  @media screen and (max-width: 1024px) {
+    margin-top: 0;
+  }
 `;

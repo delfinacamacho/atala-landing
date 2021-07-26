@@ -12,6 +12,7 @@ export const StyledHero = styled.div`
   position: relative;
   top: -85px;
   padding-bottom: 70px;
+  z-index: 5;
 
   @media screen and (max-width: 1024px) {
     border-radius: 0 0 100px 100px;

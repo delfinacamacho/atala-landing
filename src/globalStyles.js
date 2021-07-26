@@ -8,10 +8,13 @@ const GlobalStyles = createGlobalStyle`
     list-style: none;
     font-family: 'Circular Std', sans-serif;
   }
+  html {
+    scroll-behavior: smooth;
+  }
 `;
 
 export const Container = styled.div`
-z-index: 1;
+z-index: 20;
 width: 100%;
 max-width: 1920px;
 margin: 0 auto;

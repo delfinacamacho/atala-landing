@@ -5,7 +5,7 @@ import CardModule from "../../Modules/CardModule";
 const Features = () => {
   return (
     <>
-      <SectionContainer>
+      <SectionContainer id='features'>
         <CardModule />
       </SectionContainer>
     </>

@@ -22,7 +22,7 @@ const Navbar = () => {
           <Logo />
           <NavMenu>
             <MenuItem>
-              <MenuLink to="/">Features</MenuLink>
+              <MenuLink href="#features">Features</MenuLink>
             </MenuItem>
             <MenuItem>
               <MenuLink to="/">Credentials</MenuLink>

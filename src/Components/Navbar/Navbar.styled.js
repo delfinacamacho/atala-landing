@@ -7,7 +7,7 @@ export const StyledNav = styled.nav`
   align-items: center;
   position: sticky;
   top: 0;
-  z-index: 10;
+  z-index: 20;
 
   &.default {
     background-color: transparent;
