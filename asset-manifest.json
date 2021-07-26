@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/atala-landing/static/js/main.1ea70f8f.chunk.js",
-    "main.js.map": "/atala-landing/static/js/main.1ea70f8f.chunk.js.map",
+    "main.js": "/atala-landing/static/js/main.e6408758.chunk.js",
+    "main.js.map": "/atala-landing/static/js/main.e6408758.chunk.js.map",
     "runtime-main.js": "/atala-landing/static/js/runtime-main.a790fdce.js",
     "runtime-main.js.map": "/atala-landing/static/js/runtime-main.a790fdce.js.map",
     "static/js/2.365b1e9e.chunk.js": "/atala-landing/static/js/2.365b1e9e.chunk.js",
@@ -9,6 +9,7 @@
     "index.html": "/atala-landing/index.html",
     "static/js/2.365b1e9e.chunk.js.LICENSE.txt": "/atala-landing/static/js/2.365b1e9e.chunk.js.LICENSE.txt",
     "static/media/card-icon.7b825347.svg": "/atala-landing/static/media/card-icon.7b825347.svg",
+    "static/media/decorative-card.ee11d82b.png": "/atala-landing/static/media/decorative-card.ee11d82b.png",
     "static/media/groupatala-logo.1f61110e.svg": "/atala-landing/static/media/groupatala-logo.1f61110e.svg",
     "static/media/hero-bg.fbb50567.jpg": "/atala-landing/static/media/hero-bg.fbb50567.jpg",
     "static/media/hero-img.4de12468.png": "/atala-landing/static/media/hero-img.4de12468.png"
@@ -16,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime-main.a790fdce.js",
     "static/js/2.365b1e9e.chunk.js",
-    "static/js/main.1ea70f8f.chunk.js"
+    "static/js/main.e6408758.chunk.js"
   ]
 }
