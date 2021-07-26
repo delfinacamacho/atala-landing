@@ -10,6 +10,10 @@ export const IntroContainer = styled(Container)`
 
   margin-top: 48px;
 
+  & :nth-child(2) {
+    margin-top: 25px;
+  }
+
   @media screen and (max-width: 1024px) {
     margin-top: 0;
   }

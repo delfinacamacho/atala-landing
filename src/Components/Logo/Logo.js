@@ -4,7 +4,7 @@ import LogoSrc from "../../images/groupatala-logo.svg";
 
 const Logo = () => {
 return (
-  <LinkLogo to="/">
+  <LinkLogo href="#hero">
   <LogoIcon src={LogoSrc} alt="Atala logo" />
 </LinkLogo>
 )

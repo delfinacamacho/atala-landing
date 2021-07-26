@@ -2,7 +2,7 @@ import styled from "styled-components";
 import { Container } from "../../globalStyles";
 import heroUrl from "../../images/hero-bg.jpg";
 
-export const StyledHero = styled.div`
+export const StyledHero = styled.section`
   background-image: url(${heroUrl});
   background-position: bottom;
   background-repeat: no-repeat;

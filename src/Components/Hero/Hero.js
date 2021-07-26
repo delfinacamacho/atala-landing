@@ -13,7 +13,7 @@ import ReactStoreBadges from "react-store-badges";
 const Hero = () => {
   return (
     <>
-      <StyledHero>
+      <StyledHero id='hero'>
         <HeroContainer>
           <HeroContent>
             <Title className="primary">
