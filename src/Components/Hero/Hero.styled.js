@@ -9,7 +9,6 @@ export const StyledHero = styled.div`
   background-size: cover;
   width: 100%;
   border-radius: 0 0 140px 140px;
-  z-index: -1;
   position: relative;
   top: -85px;
   padding-bottom: 70px;

@@ -1,7 +1,6 @@
 import styled from "styled-components";
-import { Link } from "react-router-dom";
 
-export const LinkLogo = styled(Link)`
+export const LinkLogo = styled.a`
   cursor: pointer;
   display: flex;
   align-items: center;

@@ -23,13 +23,16 @@ const Hero = () => {
               Carry and share your credentials inside your digital wallet.
             </Copy>
             <BadgeContainer>
-              <ReactStoreBadges platform={"ios"} url={"YOUR_APP_STORE_URL"} />
+              <ReactStoreBadges
+                platform={"ios"}
+                url="https://www.apple.com/app-store/"
+                target="_blank"
+              />
               <ReactStoreBadges
                 platform={"android"}
                 url="https://play.google.com/store/apps"
-                target='_blank'
+                target="_blank"
               />
-              <a href='https://play.google.com/store/apps'>Holo</a>
             </BadgeContainer>
           </HeroContent>
           <HeroImage src={HeroImgSrc} alt="" />

@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import { Container } from "../../globalStyles";
-import { Link } from "react-router-dom";
 
 export const StyledNav = styled.nav`
   display: flex;
@@ -39,7 +38,7 @@ export const MenuItem = styled.li`
   }
 `;
 
-export const MenuLink = styled(Link)`
+export const MenuLink = styled.a`
   cursor: pointer;
   color: white;
   text-decoration: none;
