@@ -1,6 +1,6 @@
 # Atala Prism - Landing page challenge using React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), as is the recomended solution to start building a new single-page application in React.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), as is the recomended solution to start building a new **single-page application** in React.
 
 ## Resources & technologies
 - React.js
