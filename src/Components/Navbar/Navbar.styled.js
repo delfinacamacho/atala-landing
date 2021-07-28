@@ -12,7 +12,7 @@ export const StyledNav = styled.nav`
   &.default {
     background-color: transparent;
     @media screen and (max-width: 599px) {
-      background-color: rgba(38, 35, 36, 0.95);
+      background-color: rgba(38, 35, 36, 0.85);
     }
   }
   &.sticky-bg {
@@ -20,7 +20,7 @@ export const StyledNav = styled.nav`
   }
   @media screen and (max-width: 599px) {
       height: 50px;
-      background-color: rgba(38, 35, 36, 0.95);
+      background-color: rgba(38, 35, 36, 0.85);
     }
 `;
 
@@ -43,7 +43,7 @@ export const NavMenu = styled.ul`
     top: 50px;
     left: ${({click}) => (click ? 0 : '-100%')};
     transition: all 0.5s ease;
-    background-color: rgba(38, 35, 36, 0.95);
+    background-color: rgba(38, 35, 36, 0.85);
   }
 `;
 

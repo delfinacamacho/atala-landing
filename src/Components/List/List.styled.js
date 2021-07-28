@@ -1,8 +1,8 @@
 import styled from "styled-components";
-import { ReactComponent as Icon } from "../../images/verified-icon.svg";
 
 export const StyledLi = styled.li`
   display: flex;
+  
 `;
 
 export const LiContent = styled.div`
@@ -18,9 +18,10 @@ export const LiContent = styled.div`
   }
 `;
 
-export const LiIcon = styled(Icon)`
-  width: 32px;
-  height: 32px;
+export const LiIcon = styled.img`
+  width: 30px;
+  height: auto;
+  align-self: start;
 `;
 
 export const StyledUl = styled.ul``;
