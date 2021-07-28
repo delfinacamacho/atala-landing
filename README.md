@@ -26,7 +26,7 @@ or, if you are using yarn
 yarn install
 ```
 
-### 3 Commands
+### 3 - Commands
 Command scripts can be found in the package.json file.
 
 To run the project locally, use
