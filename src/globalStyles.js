@@ -1,4 +1,5 @@
 import styled, { createGlobalStyle } from 'styled-components';
+import font from './fonts/CircularStd-Book.otf';
 
 const GlobalStyles = createGlobalStyle`
   * {
@@ -7,14 +8,24 @@ const GlobalStyles = createGlobalStyle`
     padding: 0;
     list-style: none;
     font-family: 'Circular Std', sans-serif;
+    line-height: 160%;
   }
   html {
     scroll-behavior: smooth;
   }
+  body {
+    background-color: #F83633;
+  }
+  @font-face {
+    font-family: 'Circular Std';
+    src: url(${font}) format('truetype');
+    font-display: auto;
+  }
+
+
 `;
 
 export const Container = styled.div`
-z-index: 20;
 width: 100%;
 max-width: 1920px;
 margin: 0 auto;

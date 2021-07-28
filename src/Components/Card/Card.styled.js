@@ -6,6 +6,7 @@ display: flex;
 justify-content: center;
 margin-top: 80px;
 margin-bottom: 80px;
+
 & div:nth-child(2) {
   border-left: 1px solid rgba(160, 170, 187, 0.5);
   border-right: 1px solid rgba(160, 170, 187, 0.5);
@@ -13,8 +14,15 @@ margin-bottom: 80px;
 
 @media screen and (max-width: 599px) {
 flex-direction: column;
+align-items: center;
+margin-top: 40px;
+margin-bottom: 40px;
+
 & div:nth-child(2) {
   border: none;
+}
+& :last-child {
+  padding-bottom: 0;
 }
   }
 `;

@@ -1,6 +1,6 @@
 import React from "react";
 import { StyledFooter, FooterContainer } from "./Footer.styled";
-import { Footnote } from "../Typography/Typography";
+import { Footnote } from "../Typography";
 import { Logo } from "../index";
 
 const Footer = () => {

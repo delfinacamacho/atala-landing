@@ -1,6 +1,6 @@
 import React from "react";
 import{ StyledCardContainer, StyledCard, CardIcon, StyledIcon} from "./Card.styled";
-import { Copy } from "../Typography/Typography";
+import { Copy } from "../Typography";
 
 
 export const Card = ({caption, description, className}) => {

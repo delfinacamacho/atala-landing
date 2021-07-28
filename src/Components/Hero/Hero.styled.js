@@ -17,11 +17,13 @@ export const StyledHero = styled.section`
   @media screen and (max-width: 1024px) {
     border-radius: 0 0 100px 100px;
     padding-bottom: 140px;
+    overflow: hidden;
   }
 
   @media screen and (max-width: 599px) {
     border-radius: 0 0 75px 75px;
     padding-bottom: 25px;
+    overflow: visible;
   }
 `;
 
@@ -47,13 +49,14 @@ export const HeroContent = styled.div`
 
   & p {
     margin-top: 25px;
-    margin-bottom: 52px;
+    margin-bottom: 40px;
 
     @media screen and (max-width: 599px) {
-      margin-bottom: 25px;
+      margin-bottom: 20px;
     }
   }
   @media screen and (max-width: 599px) {
+    margin-top: 50px;
       margin-bottom: 50px;
     }
 `;
@@ -65,12 +68,13 @@ export const HeroImage = styled.img`
   top: 90px;
   right: -50px;
 
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1100px) {
     width: 350px;
     height: auto;
     top: 0;
     right: -25px;
   }
+
   @media screen and (max-width: 599px) {
     right: 0;
   }
