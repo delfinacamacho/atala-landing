@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Resources & technologies
 - React.js
-- Styled components
+- styled-components
 - react-icons
 - react-badges
 
@@ -51,5 +51,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes. The app is ready to be deployed!
 
 ## Tech Debt
+- Index and folders refactoring
 - Adding Unit Tests
 - Trying different animations to ease in/out the different sections.
