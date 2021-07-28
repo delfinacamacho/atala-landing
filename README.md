@@ -52,4 +52,4 @@ The build is minified and the filenames include the hashes. The app is ready to 
 
 ## Tech Debt
 - Adding Unit Tests
-- Try different animations to ease in/out the different sections.
+- Trying different animations to ease in/out the different sections.
