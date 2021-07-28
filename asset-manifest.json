@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/atala-landing/static/js/main.1140608f.chunk.js",
-    "main.js.map": "/atala-landing/static/js/main.1140608f.chunk.js.map",
+    "main.js": "/atala-landing/static/js/main.e9e8569e.chunk.js",
+    "main.js.map": "/atala-landing/static/js/main.e9e8569e.chunk.js.map",
     "runtime-main.js": "/atala-landing/static/js/runtime-main.a790fdce.js",
     "runtime-main.js.map": "/atala-landing/static/js/runtime-main.a790fdce.js.map",
     "static/js/2.a90abe69.chunk.js": "/atala-landing/static/js/2.a90abe69.chunk.js",
@@ -23,6 +23,6 @@
   "entrypoints": [
     "static/js/runtime-main.a790fdce.js",
     "static/js/2.a90abe69.chunk.js",
-    "static/js/main.1140608f.chunk.js"
+    "static/js/main.e9e8569e.chunk.js"
   ]
 }
