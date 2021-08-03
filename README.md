@@ -11,9 +11,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## How to install
 
 ### 1 - Clone the repository
-Clone the [repository](https://github.com/delfinacamacho/delilah-resto) manually, or directly from the the terminal using this command:
+Clone the [repository](https://github.com/delfinacamacho/atala-landing) manually, or directly from the the terminal using this command:
 
-`git clone https://github.com/delfinacamacho/delilah-resto.`
+`git clone https://github.com/delfinacamacho/atala-landing.`
 
 ### 2 - Install dependencies
 
